@@ -1,0 +1,30 @@
+body
+{
+   font-family: Arial, sans-serif;
+   height: 100%;
+   margin: 0;
+   padding:0;
+   width: auto;
+   display: flex;
+   flex-direction: column;
+}
+nav
+{
+    background-color:white;
+    color:black;
+    padding-right:15px;
+    padding-left:30px;
+    display:flex;
+    justify-content:flex-end;
+}
+
+header
+{
+    display:flex;
+    justify-content: center;
+}
+.search
+{
+    display: flex;
+    justify-content: center;
+}
